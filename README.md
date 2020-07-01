@@ -15,13 +15,10 @@ This folder will be showing some programming exercises made by me using Python L
 [prime_numbers] (https://github.com/GustaEnge/Algo-DataStructures/blob/master/prime_numbers.py)
 ```
 4) Read 2 whole number lists  x and y, each one with 5 elements (Assuring that there won't be repetitive numbers). Compute it and show the outcome lists following rules (Set Operations) below:
-• Add between x and y: add each element soma de cada elemento de x com o elemento da mesma posic¸ao˜
-em y.
-• Produto entre x e y: multiplicac¸ao de cada elemento de ˜ x com o elemento da mesma
-posic¸ao em ˜ y.
-• Diferenc¸a entre x e y: todos os elementos de x que nao existam em ˜ y.
-• Intersec¸ao entre ˜ x e y: apenas os elementos que aparecem nos dois vetores.
-• Uniao entre ˜ x e y: todos os elementos de x, e todos os elementos de y que nao˜
-estao em ˜ x.
+• Add between x and y: add each element in x to each one in y.
+• Product between x and y: multiplication operation from each element in x to each element in y.
+• Difference between x and y: all elements in x that don't belong to y.
+• Intersection between x and y: only the elements that belong to both sets (w and y).
+• Union between x and y: all elements in x and all those ones that don't belong to y set
 
 ```
